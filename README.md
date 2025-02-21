@@ -13,7 +13,7 @@ O jogo apresenta desafios com diferentes níveis de dificuldade, cada um com um 
    ```bash
    git clone https://github.com/FellipeMiguel/react-timer-challenge.git
 
-   cd timer-challenge-game
+   cd react-timer-challenge
    ```
 
 2. **Instale as dependências:**
